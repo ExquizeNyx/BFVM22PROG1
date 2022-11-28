@@ -1,1 +1,2 @@
 datadir: 'data/KNMI.txt.tsv'
+data_eeg: 'BFVM22PROG1/study_cases/data/eeg_data.csv'
