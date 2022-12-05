@@ -1,3 +1,8 @@
 datadir: 'data/KNMI.txt.tsv'
 data_eeg: '../../data/assessments/eeg_data.csv'
 data_glucose: '../study_cases/data/glucose.json'
+data_careplans: '../study_cases/data/careplans.csv'
+data_conditions: '../study_cases/data/conditions.csv'
+data_encounters: '../study_cases/data/encounters.csv'
+data_patients: '../study_cases/data/patients.csv'
+data_observations: '../study_cases/data/observations.csv'
